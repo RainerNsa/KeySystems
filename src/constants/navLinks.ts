@@ -1,5 +1,3 @@
-
-
 export type NavLink = {
     name: string;
     href: string;
@@ -7,15 +5,22 @@ export type NavLink = {
   };
 
   export const navLinks: NavLink[] = [
-    { name: "Home", href: "#home" },
-    { name: "About", href: "#about" },
+    { name: "Home", 
+      href: "#home",       
+    },
+    { name: "About", 
+      href: "#about", 
+      children: [
+        { name: "Our Story", href: "#ourstory" },
+      ]
+    },
     {
       name: "Services",
       href: "#services", // Can still point to the main section
       children: [
-        { name: "IT Consulting", href: "#consulting" },
-        { name: "Cybersecurity", href: "#cybersecurity" },
-        { name: "Digital Transformation", href: "#transformation" },
+        { name: "Strategic Consulting", href: "#consulting" },
+        { name: "Security & Protection", href: "#cybersecurity" },
+        { name: "Innovation Services", href: "#transformation" },
       ],
     },
     { name: "Contact", href: "#contact" },
