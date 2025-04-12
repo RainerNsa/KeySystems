@@ -29,8 +29,8 @@ The goal of this project was to convert a detailed Figma design into a fully fun
 - **ReactJS**
 - **Tailwind CSS** – for styling
 - **Framer Motion** – for animations
-- **React Router DOM** – (if applicable)
-- **Vite / Create React App** – (depending on what you used)
+- **React Router DOM** – for Client-side routing
+- **Vite** – for Fast bundling and development
 - **Netlify / Vercel** – for deployment
 
 ---
