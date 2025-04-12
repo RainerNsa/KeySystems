@@ -111,12 +111,6 @@ Thanks to JVEC Solutions for the opportunity and the well-structured Figma desig
 ## 📧 Contact
 
 **Rainer Nsa**  
-Email: [your-email@example.com]  
-GitHub: [https://github.com/your-username](https://github.com/your-username)  
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
-```
-
----
-
-Let me know if you want to include screenshots, a Lighthouse report, or a technical deep dive section!
+Email: [reyonsa@yahoo.com]  
+GitHub: [https://github.com/RainerNsa](https://github.com/RainerNsa)  
+LinkedIn: [https://linkedin.com/in/rainernsa](https://linkedin.com/in/rainernsa)
