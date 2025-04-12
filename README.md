@@ -1,7 +1,7 @@
 
 
 
-# Keysystem 🎯 – Frontend Developer Test (JVEC Solutions)
+# Keysystem 🎯 – (JVEC Solutions)
 
 This is a pixel-perfect, responsive React.js implementation of the **Keysystem** Figma design provided by JVEC Solutions as part of the **Senior Frontend Developer Screening Project**.
 
